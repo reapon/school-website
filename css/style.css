@@ -10068,3 +10068,13 @@ h6,
   text-align: left !important;
   display: block;
 }
+
+.about-us-description {
+  line-height: 2.5;
+}
+
+.read-more-btn {
+  background-color: #ed1c24;
+  color: #fff;
+  padding: 10px 20px;
+}
