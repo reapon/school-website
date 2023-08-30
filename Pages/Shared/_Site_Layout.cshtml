@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+@await Html.PartialAsync("_Site_Head")
+@await RenderSectionAsync("Style", required: false)
+
+<body>
+    @await Html.PartialAsync("_Site_Menu")
+
+    @RenderBody()
+
+    @await Html.PartialAsync("_Site_Footer")
+
+    @await Html.PartialAsync("_Site_Script")
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+
+
+
+
+</body>
+</html>
