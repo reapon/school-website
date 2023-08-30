@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OtftEGJ2DIGaL5W197y2PcbCp+A5j/T+V8EyYAqDqk8lQWOodw2Q9HAPu9d8HP1pBu4aPDgHiqIoG11amgoFNw==",
+  "dgSpecHash": "pikp7zSrgoqNLN6v0WNdcdxmoxWdredhNah9oIpK2feVvkncIc6fLSHTt5dysuGNVxc+NOW6jbOO9ad+MaVMtA==",
   "success": true,
-  "projectFilePath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\school-web-app.csproj",
+  "projectFilePath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\school-web-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

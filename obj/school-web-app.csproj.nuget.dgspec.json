@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\school-web-app.csproj": {}
+    "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\school-web-app.csproj": {}
   },
   "projects": {
-    "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\school-web-app.csproj": {
+    "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\school-web-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\school-web-app.csproj",
+        "projectUniqueName": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\school-web-app.csproj",
         "projectName": "school-web-app",
-        "projectPath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\school-web-app.csproj",
+        "projectPath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\school-web-app.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-web-app\\school-web-app\\obj\\",
+        "outputPath": "E:\\BSAWORKASHRAF\\NEW_PROJECTS\\school-website\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
